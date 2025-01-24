@@ -1,3 +1,12 @@
+
+<h1 align = "center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Big+Shoulders+Inline+Text&weight=300&size=27&duration=2500&pause=1500&color=26FF0F&width=435&lines=Hi+There+!+;I'm+Kerolos+Y.Badawy+!" alt="Typing SVG" />
+</a>
+</h1>
+<a>
+  <h3 align="center"> A passionate Software Tester From Egypt eg </h3>
+</a>
 ### 💫 About Me:
 
 Greetings, fellow wanderers of the digital realm! 🚀 I'm **Kerolos Youssef**, a **Software Quality Assurance Engineer**, coding enthusiast, and aficionado of all things tech. With a passion for delivering high-quality software, I thrive in the world of testing, automation, and problem-solving.
@@ -32,10 +41,21 @@ _"Kerolos Spice and Everything Nice! 🚀✨"_ - **Kerolos Youssef**
 
 ---
 ## Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolos-youssef2)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2001274732809)
-
+<div align="center"> 
+  <a href="mailto:kerolosyoussefoff@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kerolos-youssef2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/KerolosYoussefoff/">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+    <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+  <a href="https://wa.me/2001274732809" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+  </a>
+</div>
 ## Tech Stack
 
 🧰 **Programming & Development**  
